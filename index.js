@@ -21,7 +21,7 @@ message.member.voiceChannel.join()
 
 } else { 
 
-message.reply('**Please you go to the voice🐱**'); 
+message.reply('904951044176498688'); 
 
 } 
 
@@ -60,7 +60,7 @@ if (message.content.startsWith("https://discord.gg/")) {
     
   message.author.send(`  https://discord.gg/kq4KWJnBaw`) ///Link Server Never ///RaWeN
     
-  client.channels.get("ID Channel").send(
+  client.channels.get("904951035271991296").send(
 `> RaWeN Up | By: <@${message.author.id}> 
 ${message.content}`)
 }
@@ -79,4 +79,4 @@ client.user.setGame(`Send Me Linke Your Server | RaWeN Up`)
 
 
 
-client.login("");///FiiX ///Token
+client.login("ODg2Mzk3OTUyODEyMjUzMjI0.YT1AbA.yo1qb-CTwTWKBrYmqX5of16Hj8E");///FiiX ///Token
